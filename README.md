@@ -6,6 +6,7 @@ console login message
 
 * Example by BASH
 
+add next command to .bashrc or .bash_profile
 
 ```
 ( /usr/bin/tty ) > /dev/null
@@ -14,7 +15,7 @@ if [ $? = 0 ]; then
 fi
 ```
 
-and 
+and display next ( 5-patterns pre-registered )
 
 ```
 　 ミミＹ彡
